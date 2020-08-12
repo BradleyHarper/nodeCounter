@@ -1,0 +1,19 @@
+{
+  "name": "nodecounter",
+  "version": "1.0.0",
+  "description": "A simple number counter using nodejs. No error protection. No bs.",
+  "main": "nodeCounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradleyHarper/nodeCounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradleyHarper/nodeCounter/issues"
+  },
+  "homepage": "https://github.com/BradleyHarper/nodeCounter#readme"
+}
